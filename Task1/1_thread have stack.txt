@@ -1,0 +1,3 @@
+why all threads have its one stack??
+
+because every stack store one process and every process need to store its local variables to avoid the concution that will be if we not use stack to every process(thread)
